@@ -1,0 +1,13 @@
+i 3
+i 5
+i 7
+i 2
+i 4
+f 5
+f 8
+d 3
+pin
+ppre
+ppost
+lca 2
+w
